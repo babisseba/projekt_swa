@@ -1,7 +1,5 @@
 # AuraMarine - Dokumentace projektu (SWA)
 
-Webová prezentace prodejce motorových člunů a luxusních jachet.
-
 ## Hlavní sekce
 - **index.html** - Úvodní stránka webu (Domů)
 - **nabidka.html** - Celková nabídka plavidel (rozcestník na čluny a jachty)
