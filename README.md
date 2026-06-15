@@ -1,5 +1,5 @@
 # AuraMarine - Dokumentace projektu (SWA)
-web -https://sw.opent2.com/sste/it2a/studenti/sebastianbabis/projekt/lode.html
+web -https://sw.opent2.com/sste/it2a/studenti/sebastianbabis/projekt/
 
 ## Hlavní sekce
 - **index.html** - Úvodní stránka webu (Domů)
