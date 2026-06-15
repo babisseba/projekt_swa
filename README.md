@@ -19,5 +19,5 @@
 - **process.php** - Backend skript pro zpracování kontaktních formulářů a odesílání poptávek přes Brevo API
 - **styles/style.css** - Hlavní soubor se styly a design systémem
 - **js/main.js** - Skript pro obsluhu navigace a mobilního menu
-- **DOKUMENTACE.md** - Kompletní technický popis fungování webu
+
 
