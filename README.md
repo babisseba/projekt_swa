@@ -2,7 +2,7 @@
 
 ## Hlavní sekce
 - **index.html** - Úvodní stránka webu (Domů)
-- **nabidka.html** - Celková nabídka plavidel (rozcestník na čluny a jachty)
+- **lode.html** - Celková nabídka plavidel (rozcestník na čluny a jachty)
 - **onas.html** - Informace o společnosti, týmu a naše vize
 - **cluny.html** - Katalog dostupných motorových člunů značky Saver
 - **jachty.html** - Katalog luxusních a sportovních jachet Sunseeker
